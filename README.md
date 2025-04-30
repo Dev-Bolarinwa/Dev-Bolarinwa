@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-Bolarinwa
-- 👀 I’m interested in mobile app development game development 
+- 👀 I’m interested in mobile app development game development and web development.
 - 🌱 I’m currently learning .. Next.js
 - 💞️ I’m looking to collaborate on ... Mobile application projects 
 - 📫 How to reach me ... 
